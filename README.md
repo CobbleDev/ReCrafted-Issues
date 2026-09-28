@@ -1,2 +1,2 @@
-# ReCrafted-Issues
-Issue tracker for Vanilla Re:Crafted and Legacy Re:Crafted.
+# Recrafted Repository
+Github for Vanilla/Legacy Re:Crafted
