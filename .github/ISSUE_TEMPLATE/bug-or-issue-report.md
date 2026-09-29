@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug or issue Report
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -15,13 +15,14 @@ A clear and concise description of what the bug is.
 
 - [ ] Minecraft Re:Crafted
 - [ ] Legacy Re:Crafted
+- [ ] Horrifyingly Vanilla
 
 **Modpack version:**  
 [e.g. 1.0.0]
 
 ## Minecraft version
 
-[e.g. 26.1.2]
+[e.g. 26.2]
 
 ## To Reproduce
 
